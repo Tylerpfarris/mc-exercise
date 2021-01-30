@@ -6,7 +6,9 @@ This is what Bob & Carol did on Bob’s computer when working on the first featu
 
 bloop bloop 
 
-this is what ted and alice did on ted's laptop
+this is what bob and alice did on alice's laptop
 
-new feature! new new new
+new feature! new new new 
+
+this is extra fresh new hacker shit 
 
